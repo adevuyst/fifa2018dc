@@ -1,0 +1,12 @@
+sftp-config.json
+*.pyc
+.idea
+*.iml
+**/target/*
+**/project/*
+.DS_Store
+.cache/
+.coverage
+.vscode
+derby.log
+**/metastore_db/*
